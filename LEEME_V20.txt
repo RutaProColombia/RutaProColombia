@@ -1,0 +1,8 @@
+RUTAPRO COLOMBIA V20 — SITIO NUEVO DESDE CERO
+
+1. Sube TODOS los archivos de esta carpeta a la raíz del repositorio de GitHub Pages.
+2. Mantén index.html y todos los PNG/JPG/SVG en la misma carpeta.
+3. Los enlaces de WhatsApp usan el número 573237680838.
+4. Incluye secciones de bot, planes, servicios, métodos de pago, FAQ y contacto.
+5. Las imágenes de apps y los identificadores bancarios provienen de los recursos presentes en la versión previa. Los SVG bancarios son identificadores gráficos, no se certifican como archivos oficiales de marca. Para uso comercial formal, reemplázalos por assets descargados de los kits de marca oficiales.
+6. Antes de recibir pagos, confirma datos bancarios y condiciones de cada servicio.

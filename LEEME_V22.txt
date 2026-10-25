@@ -1,0 +1,23 @@
+RUTAPRO COLOMBIA — V22 VERIFICADA
+
+CONTENIDO
+- index.html: página principal lista para GitHub Pages.
+- Imágenes locales incluidas para identidad RutaPro y las seis plataformas.
+- Enlaces de contacto WhatsApp: +57 323 768 0838.
+- Precios revisados: bot semanal $30.000, mensual $45.000, 3 meses $100.000; alquiler $80.000/semana; reactivación $90.000; venta $200.000.
+
+VERIFICACIONES REALIZADAS
+- Referencias locales de imágenes y enlaces revisadas; no se encontraron recursos locales faltantes en index.html.
+- Se comprobaron las secciones de servicios, planes, pagos y contacto.
+- Diseño adaptable para móvil y escritorio mediante reglas CSS incluidas.
+
+IMPORTANTE SOBRE LOS LOGOS DE PAGO
+Los logos SVG decorativos de la versión anterior no eran archivos originales oficiales. Para no presentarlos como oficiales, esta versión muestra los nombres de las entidades como rótulos tipográficos. No se pudo descargar/verificar un paquete oficial original de todas las marcas desde este entorno. Las páginas oficiales consultadas incluyen: Grupo Bancolombia (https://www.grupobancolombia.com/corporativo/nuestras-marcas/), Banco de Bogotá (https://saladeprensa.bancodebogota.com/logos-y-marca/) y manual Bre-B del Banco de la República (https://www.banrep.gov.co/es/bre-b/manual-identidad-visual). Para sustituir los rótulos por los archivos oficiales originales, usa los kits descargados desde las fuentes oficiales.
+
+PUBLICAR EN GITHUB PAGES
+1. Descomprime el ZIP.
+2. Sube el contenido de esta carpeta al repositorio (index.html debe quedar en la raíz).
+3. En GitHub: Settings > Pages > Deploy from a branch > selecciona la rama principal y la carpeta /(root).
+4. Guarda y espera el despliegue.
+
+Nota: la web informa sobre servicios y precios; la disponibilidad y compatibilidad del bot deben confirmarse con el asesor. No se garantizan ingresos.
