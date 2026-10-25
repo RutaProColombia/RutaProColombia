@@ -1,5 +1,0 @@
-RUTAPRO COLOMBIA V19 — REDISEÑO VISUAL
-
-Incluye renovación visual mediante CSS responsive, ajustes de tipografía, contraste, tarjetas, botones, secciones y efectos de interacción. Conserva el contenido, los recursos gráficos, métodos de pago y contacto incluidos en V18.
-
-Publicación: descomprime y sube todos los archivos a la raíz del repositorio GitHub Pages, conservando nombres y carpetas. Después prueba los enlaces y el diseño en móvil y escritorio.
