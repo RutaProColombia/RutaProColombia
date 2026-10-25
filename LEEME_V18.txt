@@ -1,0 +1,1 @@
+RutaPro Colombia V18: actualización visual de los métodos de pago. Se agregaron imágenes SVG ilustrativas para Bancolombia, Banco de Bogotá, AV Villas, Bre-B, Nequi y Davivienda. Confirma siempre con el asesor los datos oficiales de recepción antes de transferir.
